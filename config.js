@@ -1,0 +1,52 @@
+// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+var config = {
+    // The length of the sentences can be arbitrary. You can write ten or twenty sentences.
+    // Try not to exceed 15 characters per sentence, for better display.
+    texts: [
+        "Dành tặng cậu",
+        "Ánh Nguyệt siêu cấp kuteee!!!!",
+        "Hôm nay là sinh nhật cậu",
+        "Đã là lần thứ 20 rùi đó",
+        "Vậy nên hôm nay",
+        "Phải thật vui lên nhé",
+        "Chúc cậu tuổi mới",
+        "Sẽ luôn hạnh phúc",
+        "Luôn luôn tươi cười",
+        "Có nhiều niềm vui",
+        "Gặp nhiều may mắn",
+        "Và thật xinh đẹp",
+        "Nhéeee~~",
+        "À còn nữa =))",
+        "Hãy luôn lạc quan",
+        "Và sống hết mìnhhhh",
+        "Cậu nhé!",
+        "Tớ chỉ muốn nói vậy thuiii",
+        "Hết rùiiiii",
+        "Khoan đã",
+        "Đừng đi vội",
+        "Hãy để tớ",
+        "Gửi đến cậu",
+        "Hàng ngàn cái ôm",
+        "hihi:))",
+        "baibai cậu, hẹn gặp lại cậu",
+        "Vào một ngày nào đóoo",
+        "Lần này thì là hết thiệt rùi",
+        "Hạnh phúc nha!!!",
+    ],
+    imgs: {
+        "Ánh Nguyệt siêu cấp kuteee!!!!": "./imgs/xiaokeai.png",
+    },
+    desc: {
+        turn_on: "Bắt đầu thôi, Let's gooooooo",
+        play: "Thêm chút nhạc nhé",
+        bannar_coming: "Tiếp tục nào",
+        balloons_flying: "Có vẻ như thiếu gì đó nhỉ :))",
+        cake_fadein: "Bánh kem ư?",
+        light_candle: "Cùng đốt nến nào!!!",
+        wish_message: "Chúc mừng sinh nhật cậu",
+        story: "VÀI LỜI NHẮN GỬI ĐẾN CẬU",
+    },
+    style: {
+        font_family: "coolvetica",
+    },
+};
