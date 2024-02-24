@@ -47,6 +47,7 @@ var config = {
         story: "VÀI LỜI NHẮN GỬI ĐẾN CẬU",
     },
     style: {
-        font_family: "coolvetica",
+        //font_family: "coolvetica",
+        font_family: "Trajan",
     },
 };
