@@ -28,7 +28,7 @@ var config = {
         "Gửi đến cậu",
         "Hàng ngàn cái ôm",
         "Và những tia nắng ấm áp",
-        "Từ phương Nam xa xôi!",
+        "Từ phương Nam xa xôi",
         "hihi:))",
         "baibai cậu, hẹn gặp lại cậu",
         "Vào một ngày nào đóoo",
