@@ -32,7 +32,7 @@ var config = {
         "hihi:))",
         "baibai cậu, hẹn gặp lại cậu",
         "Vào một ngày nào đóoo",
-        "Lần này thì là hết thiệt rùi",
+        "Lần này thì là hết thiệt rùi =))",
         "Hạnh phúc nha!!!",
     ],
     imgs: {
