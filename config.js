@@ -5,6 +5,11 @@ var config = {
     texts: [
         "Dành tặng cậu",
         "Ánh Nguyệt siêu cấp kuteee!!!!",
+        "À quên mất",
+        "Phải là công chúa băng giá",
+        "Siu cấp lạnh lùng mới đúng chứ",
+        "Cậu nhờ =))))",
+        "Hì hì :))",
         "Hôm nay là sinh nhật cậu",
         "Đã là lần thứ 20 rùi đó",
         "Vậy nên hôm nay",
